@@ -1,0 +1,152 @@
+[
+
+  
+  {
+    "value": 50,
+    "name": "Human",
+    "path": "Human",
+    "children": [
+      {
+      "value": 20,
+      "name": "Age: 16",
+      "path": "Human/Age: 16",
+      "children": [
+        {
+          "value": 5,
+          "name": "Idiot",
+          "path": "Human/Age: 16/Idiot"
+        },
+        {
+          "value": 5,
+          "name": "Dumb",
+          "path": "Human/Age: 16/Dumb"
+        },
+        {
+          "value": 5,
+          "name": "Lost",
+          "path": "Human/Age: 16/Lost"
+        },
+        {
+          "value": 5,
+          "name": "Clueless",
+          "path": "Human/Age: 16/Clueless"
+        }
+      ]
+      },
+      {
+      "value": 20,
+      "name": "Citizen",
+      "path": "Human/Citizen",
+      "children": [
+        {
+          "value": 5,
+          "name": "American",
+          "path": "Human/Citizen/American"
+        },
+        {
+          "value": 5,
+          "name": "New Yorker",
+          "path": "Human/Citizen/New Yorker"
+        }
+      ]
+      },
+      {
+      "value": 10,
+      "name": "Depressed",
+      "path": "Human/Depressed"
+      }
+
+
+    ]
+  },
+
+  {
+    "value": 25,
+    "name": "Work",
+    "path": "Work",
+    "children": [
+      {
+      "value": 20,
+      "name": "Student",
+      "path": "Work/Student",
+      "children": [
+        {
+          "value": 5,
+          "name": "Mr.Lin",
+          "path": "Work/Student/Mr.Lin"
+        },
+        {
+          "value": 5,
+          "name": "Clubs",
+          "path": "Work/Student/Clubs"
+        },
+        {
+          "value": 5,
+          "name": "Friends",
+          "path": "Work/Student/Friends"
+        },
+        {
+          "value": 5,
+          "name": "Hardwork",
+          "path": "Work/Student/Hardwork"
+        }
+      ]
+      },
+      {
+      "value": 10,
+      "name": "Hobbies",
+      "path": "Work/Hobbies",
+      "children": [
+        {
+          "value": 5,
+          "name": "Coding",
+          "path": "Work/Hobbies/Coding"
+        },
+        {
+          "value": 5,
+          "name": "Photography",
+          "path": "Human/Hobbies/Photography"
+        }
+      ]
+      },
+      {
+      "value": 2,
+      "name": "Lost",
+      "path": "Work/Lost"
+      }
+    ]
+  },
+
+  {
+    "value": 25,
+    "name": "Home",
+    "path": "Home",
+    "children": [
+      {
+      "value": 20,
+      "name": "Family",
+      "path": "Home/Family",
+      "children": [
+        {
+          "value": 5,
+          "name": "Brother",
+          "path": "Home/Family/Brother"
+        },
+        {
+          "value": 5,
+          "name": "Son",
+          "path": "Home/Family/Son"
+        },
+        {
+          "value": 5,
+          "name": "Responsibility",
+          "path": "Home/Family/Responsibility"
+        }
+      ]
+      }
+
+    ]
+  }
+
+
+]
