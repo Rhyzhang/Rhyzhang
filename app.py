@@ -85,8 +85,46 @@ def render_basic_tree():
 # Tree map
 render_disk_usage()
 
-st.header("Idenity Projec[")
+st.title("Idenity Project")
 
+st.header("Why these categories?")
+st.markdown("""
+    I chose these categories because I wanted to capture myself in the most simplistic way possible.
+    
+    The umbrella that holds eve
+
+
+""")
+
+st.header("What comparisons can you make between the number system classifications and the classifications you came up with for yourself?")
+st.markdown("""
+
+    I believe humans are extrememly complex and complicated. There is no way to classify a human being into catergories like numbers. Numbers
+    do not change their properties. You can not just simply turn a irrational number into a rational number. However, you can train and through
+    experience, change yourself from irrational to rational. Maybe, it is a little bit like doing operatons on a number in order to change it
+    into something else. Perhaps an irrational number can turn into a rational number by doing some addition, subtraction, or division on it or
+    something. Any ways, I digress. Basically to sum things up just like the number classification system there are catergories that are subsets
+    of each superset. Each set belongs into its own place in me.
+
+""")
+
+st.header("What are the benefits / drawbacks of classification?")
+st.markdown("""
+
+    In terms of classifying humas the benefits for classification is that you are able to visualize things in their perseived catergories. 
+
+""")
+
+
+st.header("After completing this project, did you come across any types of personal classifications (or intersection of categories) that surprised you?")
+st.markdown("""
+    No, I was not surprised by these catergories as I catergorized myself. There are no elements of surprises there. However, I do believe I
+    somewhat learned more about myself by visualizing what I believe in myself. I am a boring person so there is not much to learn, but I is nice
+    to see everything from a big picture standpoint. I think we go through life all clueless and maybe as I grow older I will become more and more
+    dumb. Thus, potentially I might need to use this chart as a guide for myself when I become old. I really do hope my older self is much smarter
+    than what I am now.
+
+""")
 
 
 # # Tree
