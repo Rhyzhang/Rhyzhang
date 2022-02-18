@@ -80,55 +80,46 @@ def render_basic_tree():
     st_echarts(option, height="500px")
 
 
+# Main ###############################
 
+st.title("Idenity Project")
+st.caption("Made with 💖 by Ryan Zhang")
 
 # Tree map
 render_disk_usage()
+st.caption("Please use mouse to interact with the treemap")
+# # Tree
+render_basic_tree()
+st.caption("Please click on branch node to interact")
 
-st.title("Idenity Project")
+
+
+# Writings
 
 st.header("Why these categories?")
 st.markdown("""
-    I chose these categories because I wanted to capture myself in the most simplistic way possible.
-    
-    The umbrella that holds eve
-
-
+    I chose these categories because these are the components that makeup me. 
+    First, under the superset of Ryan holds the subset Human. The human subset consists of half of my attributes. It is the parent of the children clueless, dumb, lost, idiot. 
+    Then, we have the other two subsets, work, and home. These two duos unbalance all our lives and internally fights each other for our attention. I decided to master these two areas of interest after my midlife crisis. I think it would be best for me to do well in these two areas so I can live a peaceful life and then die.
 """)
 
 st.header("What comparisons can you make between the number system classifications and the classifications you came up with for yourself?")
 st.markdown("""
-
-    I believe humans are extrememly complex and complicated. There is no way to classify a human being into catergories like numbers. Numbers
-    do not change their properties. You can not just simply turn a irrational number into a rational number. However, you can train and through
-    experience, change yourself from irrational to rational. Maybe, it is a little bit like doing operatons on a number in order to change it
-    into something else. Perhaps an irrational number can turn into a rational number by doing some addition, subtraction, or division on it or
-    something. Any ways, I digress. Basically to sum things up just like the number classification system there are catergories that are subsets
-    of each superset. Each set belongs into its own place in me.
-
+    Just like the number system, I classify myself into sets. These sets are infinitely long and infinitely complex. I only showed my favorite numbers just like how I selectively choose what attributes I show you. There is no way for you to see all my other numbers. Numbers like π gets classified into irrational without much thought. Yet, π is so crucial to the essence of the circle and even the world. Even though these attributes are classified we learn nothing about them except they belong somewhere.
 """)
 
 st.header("What are the benefits / drawbacks of classification?")
 st.markdown("""
-
-    In terms of classifying humas the benefits for classification is that you are able to visualize things in their perseived catergories. 
-
+    The benefit of classification is our retreat to our comfortable communities. We get to associate ourselves with a group of humans and tell ourselves, "we are part of that." Yet, sometimes humans can not even classify themselves internally. Sometimes we cannot classify our emotions, we cannot classify our experiences, we can not classify our mistakes. The drawbacks start to surface when we randomly classify ourselves and other people. One day I am hardworking, and the next day I am a procrastinator. If I can classify myself I would lock myself in hardworking. Too bad you can't. 
 """)
 
 
 st.header("After completing this project, did you come across any types of personal classifications (or intersection of categories) that surprised you?")
 st.markdown("""
-    No, I was not surprised by these catergories as I catergorized myself. There are no elements of surprises there. However, I do believe I
-    somewhat learned more about myself by visualizing what I believe in myself. I am a boring person so there is not much to learn, but I is nice
-    to see everything from a big picture standpoint. I think we go through life all clueless and maybe as I grow older I will become more and more
-    dumb. Thus, potentially I might need to use this chart as a guide for myself when I become old. I really do hope my older self is much smarter
-    than what I am now.
-
+    No, nothing surprised me in my classifications. However, I hope this visual map may serve as a guiding light for me in the future. I constantly wonder what I might become in the future and I only wish I become much smarter than I am now. Perhaps one day I will not be clueless. 
 """)
 
 
-# # Tree
-# render_basic_tree()
 
 
 
