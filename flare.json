@@ -1,0 +1,93 @@
+{
+    "name": "Ryan Zhang",
+    "children": [
+        {
+            "name": "Work",
+            "children":[
+                {
+                    "name": "Student",
+                    "children":[
+                        {
+                            "name": "Hardwork"
+                        },
+                        {
+                            "name": "Friends"
+                        },
+                        {
+                            "name": "Clubs"
+                        },
+                        {
+                            "name": "Mr.Lin"
+                        }
+                    ]
+                },
+                {
+                    "name": "Hobbies",
+                    "children":[
+                        {
+                            "name": "Coding"
+                        },
+                        {
+                            "name": "Photography"
+                        }
+                    ]
+                },
+                {
+                    "name": "Lost"
+                }
+            ]
+        },
+        {
+            "name": "Human",
+            "children":[
+                {
+                    "name": "Age: 16",
+                    "children":[
+                        {
+                            "name": "Clueless"
+                        },
+                        {
+                            "name": "Dumb"
+                        },
+                        {
+                            "name": "Lost"
+                        },
+                        {
+                            "name": "Idiot"
+                        }
+                    ]
+                },
+                {
+                    "name": "Citizen",
+                    "children":[
+                        {
+                            "name": "New Yorker"
+                        },
+                        {
+                            "name": "American"
+                        }
+                    ]
+                },
+                {
+                    "name": "Depressed"
+                }
+            ]
+        },
+        {
+            "name": "Home",
+            "children":[
+                {
+                    "name": "Responsibility"
+                },
+                {
+                    "name": "Son"
+                },
+                {
+                    "name": "Brother"
+                }
+            ]
+        }
+
+    ]
+
+}
