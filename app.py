@@ -100,7 +100,7 @@ st.header("Why these categories?")
 st.markdown("""
     I chose these categories because these are the components that makeup me. 
     First, under the superset of Ryan holds the subset Human. The human subset consists of half of my attributes. It is the parent of the children clueless, dumb, lost, idiot. 
-    Then, we have the other two subsets, work, and home. These two duos unbalance all our lives and internally fights each other for our attention. I decided to master these two areas of interest after my midlife crisis. I think it would be best for me to do well in these two areas so I can live a peaceful life and then die.
+    Then, we have the other two subsets, work, and home. These two duos unbalance all our lives and internally fights each other for our attention. I decided to attempt to master these two areas of interest after a midlife crisis. I think it would be best for me to do well in these two areas so I can live a peaceful life and then die.
 """)
 
 st.header("What comparisons can you make between the number system classifications and the classifications you came up with for yourself?")
