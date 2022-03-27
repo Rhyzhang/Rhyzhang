@@ -1,5 +1,5 @@
 <p align="center">
-  <div style="width:100%;height:0;padding-bottom:89%;position:relative;"><iframe src="https://giphy.com/embed/hC2mA1FWFs2OowO60p" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/kawaii-duck-ducky-hC2mA1FWFs2OowO60p">via GIPHY</a>
+  <img src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" width=100% height=100% />
 </p>
   
 <h1 align="center">Me Walking Through Life</h1>
