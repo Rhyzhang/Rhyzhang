@@ -1,8 +1,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" width=40% height=40% />
+  读万卷书不如行万里路
 </p>
-  
-<h1 align="center">Me Walking Through Life</h1>
 
 <!--
 **irrelevantRyan/irrelevantRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
