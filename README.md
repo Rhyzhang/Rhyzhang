@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" width=100% height=100% />
+  <img src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" width=40% height=40% />
 </p>
   
 <h1 align="center">Me Walking Through Life</h1>
