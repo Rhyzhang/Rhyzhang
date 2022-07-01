@@ -1,3 +1,6 @@
+# This is the a streamlit app. It was a project for Math Class Algebra Two in Tenth Grade
+
+
 import json
 
 import streamlit as st
