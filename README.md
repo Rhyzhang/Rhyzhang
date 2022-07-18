@@ -2,8 +2,12 @@
   <img src="https://media.giphy.com/media/hC2mA1FWFs2OowO60p/giphy.gif" width=40% height=40% />
 </p>
 <p align="center">
-  "读万卷书不如行万里路"
+  <img src="https://media.giphy.com/media/s07EVm24Dam7D9zMaD/giphy.gif" width=40% height=40% />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6ZtcZCYVzROMckY8/giphy.gif" width=40% height=40% />
+</p>
+
 
 
 <!--
