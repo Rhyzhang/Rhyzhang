@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/mtrWumAn1N9Hg27BrI/giphy.gif" width=33% height=33% /><img src="https://media.giphy.com/media/RpfFaFtvarYg3lexDc/giphy.gif" width=33% height=33% /><img src="https://media.giphy.com/media/XRt0oP8fn9pUgUO0bw/giphy.gif" width=33% height=33% />
+<img src="https://media.giphy.com/media/mtrWumAn1N9Hg27BrI/giphy.gif" align=center width=150 height=33% /><img src="https://media.giphy.com/media/RpfFaFtvarYg3lexDc/giphy.gif" align=center width=150 height=33% /><img src="https://media.giphy.com/media/XRt0oP8fn9pUgUO0bw/giphy.gif" align=center width=150 height=33% />
 
 <!--
 **irrelevantRyan/irrelevantRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
