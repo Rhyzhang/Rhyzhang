@@ -1,16 +1,4 @@
-<div class="row">
-  <div class="column">
-    <img src="https://media.giphy.com/media/mtrWumAn1N9Hg27BrI/giphy.gif" width=40% height=40% />
-  </div>
-  <div class="column">
-    <img src="https://media.giphy.com/media/RpfFaFtvarYg3lexDc/giphy.gif" width=40% height=40% />
-  </div>
-  <div class="column">
-    <img src="https://media.giphy.com/media/XRt0oP8fn9pUgUO0bw/giphy.gif" width=40% height=40% />
-  </div>
-</div>
-
-
+<img src="https://media.giphy.com/media/mtrWumAn1N9Hg27BrI/giphy.gif" width="333" height="" /><img src="https://media.giphy.com/media/RpfFaFtvarYg3lexDc/giphy.gif" width="333" height=33% /><img src="https://media.giphy.com/media/XRt0oP8fn9pUgUO0bw/giphy.gif" width=333 height=33% />
 
 <!--
 **irrelevantRyan/irrelevantRyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
